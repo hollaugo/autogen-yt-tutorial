@@ -28,5 +28,3 @@ Also, note that there are two tools which you can add to your AutoGen skills.:
 
 - `generate_audio_tool.py`
 - `tavily_search_tool`
-
-which you can add to your AutoGen skills.
